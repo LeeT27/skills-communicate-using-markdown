@@ -66,7 +66,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
-# Hello there, I like bananas
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
@@ -79,3 +79,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+# Hello there, I like bananas
